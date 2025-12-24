@@ -1,0 +1,4 @@
+touch data/raw/.gitkeep
+touch data/processed/.gitkeep
+touch outputs/charts/.gitkeep
+touch outputs/reports/.gitkeeps
