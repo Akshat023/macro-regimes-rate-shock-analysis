@@ -7,7 +7,7 @@
 
 **Institutional-Grade Macro Regime Analysis for Sales & Trading (FICC/Equities)**
 
-> *"Transparent, rule-based regime classification with +100bps rate shock stress testing using historical analogs. Built for Goldman Sachs S&T Summer Analyst interviews."*
+> *"Transparent, rule-based regime classification with +100bps rate shock stress testing using historical analogs. Built for S&T Summer Analyst interviews."*
 
 [📊 View Results](#-key-results) | [🚀 Quick Start](#-quick-start) | [💼 Interview Prep](#-interview-preparation) | [📈 Sample Charts](#-sample-output)
 
