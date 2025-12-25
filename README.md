@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes how **interest rate changes** and **volatility regimes** influence equity and bond markets, providing actionable insights for Sales & Trading desks. Using real FRED data and transparent classification rules, it answers:
 
@@ -30,7 +30,7 @@ This project analyzes how **interest rate changes** and **volatility regimes** i
 ✅ **Stress tested** - Historical analog method for rate shock scenarios  
 
 ---
-## 🧠 Executive Summary (1-Min Read)
+## Executive Summary (1-Min Read)
 
 - Tightening regimes dominate ~40% of post-2000 history
 - Equity–bond diversification fails during inflation-driven hikes
